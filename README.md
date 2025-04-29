@@ -11,7 +11,7 @@ This project provides a Model Context Protocol (MCP) server that exposes various
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:a05031113/yahoo-fianace-mcp.git
     cd yahoo-finance # Or your repository directory name
     ```
 
