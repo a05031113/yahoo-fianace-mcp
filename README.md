@@ -96,4 +96,6 @@ The server exposes the public methods of the `YahooFinance` class (defined in `s
 *   `get_option_chain(symbol: str, date: str)`
 *   `get_sustainability(symbol: str)`
 
-Refer to the docstrings within `main.py` or `src/tool.py` for details on each tool's parameters. 
+Refer to the docstrings within `main.py` or `src/tool.py` for details on each tool's parameters.  
+
+Certified by MCP Review. https://mcpreview.com/mcp-servers/a05031113/yahoo-fianace-mcp
